@@ -1,0 +1,51 @@
+Assignment Results
+Mark: 28.8 of 30 (HD)
+Days late: 0 (-0%)
+Correct submission: Yes (1)
+
+Marked by: Bhagya Rupasinghe
+
+Automarker Results (15/15)
+Tasks 1-3
+T1: 2 / 2
+T2: 2 / 2
+T3: 1 / 1
+
+Tasks 4-6
+T4: 2 / 2
+T5: 2 / 2
+T6: 1 / 1
+
+Tasks 7-9
+T7: 2 / 2
+T8: 1.5 / 1.5
+T9: 1.5 / 1.5
+
+Checkpoint Results (2/2)
+
+TA Review (10.8/12)
+Marked by: Bhagya Rupasinghe
+
+Tasks 1-3
+Documentation: Satisfactory
+Comments: Satisfactory
+Variable Naming: Excellent
+Readability: Satisfactory
+Feedback: Job well done on completing Part One by modularizing your code using functions. Here are a few points to improve in your next assignment: Type Hints: Include type hints for all functions, even when nothing is returned. Without the return type hint, it can become ambiguous and affect code readability and clarity. Commenting: Avoid commenting on lines that are self-explanatory, as this can clutter the code and reduce its readability. Focus your comments on complex or non-obvious sections instead. Block Comments: Use block comments to provide an overview of what a section of code does, rather than commenting on each line individually. This approach enhances readability and helps others quickly understand the purpose of the code block. Whitespace for Readability: Adding whitespace between blocks of code enhances readability by visually separating different sections. Consider including line breaks between logical sections, such as after variable declarations, between loops, and before conditionals, to make the code easier to follow.
+
+Tasks 4-6
+Documentation: Satisfactory
+Comments: Excellent
+Variable Naming: Excellent
+Readability: Excellent
+Feedback: Good job completing Part 2! In addition to the feedback from Part 1, you've done a great job improving the documentation for this section. Keep up the good work and continue refining your code!
+
+Tasks 7-9
+Documentation: Satisfactory
+Comments: Satisfactory
+Variable Naming: Excellent
+Readability: Excellent
+Feedback: Good job completing Part 3! I noticed similar documentation issues as in the previous parts. Make sure to maintain consistent documentation practices throughout your submission to improve clarity and professionalism.
+
+TA Comment
+Overall, well-documented and modularized submission. Job well done! Please address the suggested improvements in your next assignment.
